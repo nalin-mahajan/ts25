@@ -53,7 +53,7 @@ git clone https://github.com/nalin-mahajan/ts25
 cd ts25
 pip install -r requirements.txt
 python app.py
-
+```git 
 📲 Sample SMS Commands
 
     REGISTER Asha
