@@ -80,5 +80,5 @@ python app.py
 |----------|-------------------------|-------------------------------------------|
 | Sachin   | Backend Developer       | Flask backend, DB, OTP verification       |
 | Nalin    | Frontend Developer      | UI design, dashboard/chatbot              |
-| Ane      | Trust Score & Blockchain| Social trust algorithm, blockchain sim    |
+| Anerudh  |Feature implementation|Blockchain sim,Trust score,OTP system|
 | Shashank | API & Testing Lead      | API integration, test cases, flow testing |
